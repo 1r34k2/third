@@ -1,0 +1,31 @@
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\bin\Debug\lab2.ch_m.exe.config
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\bin\Debug\lab2.ch_m.exe
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\bin\Debug\lab2.ch_m.pdb
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.csprojAssemblyReference.cache
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.Form1.resources
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.Properties.Resources.resources
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.GenerateResource.cache
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.CoreCompileInputs.cache
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.exe
+C:\Users\klima_000\source\repos\lab2.ch_m\lab2.ch_m\obj\Debug\lab2.ch_m.pdb
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.exe.config
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.exe
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.pdb
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csprojAssemblyReference.cache
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.Form1.resources
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.Properties.Resources.resources
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.GenerateResource.cache
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.CoreCompileInputs.cache
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.exe
+C:\Users\klima_000\source\repos\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.pdb
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.exe.config
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.exe
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\bin\Debug\lab2.ch_m.pdb
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.AssemblyReference.cache
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.SuggestedBindingRedirects.cache
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.Form1.resources
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.Properties.Resources.resources
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.GenerateResource.cache
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.csproj.CoreCompileInputs.cache
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.exe
+C:\Users\1r34k2\Desktop\lab2.ch_m — копия\lab2.ch_m\obj\Debug\lab2.ch_m.pdb
